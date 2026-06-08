@@ -52,7 +52,7 @@ authoritative state. Without it, Claude can ignore your block.
 ## From the book
 
 Full method in *Continuation Intelligence: How to Stay in Control
-When AI Does the Work* — [Amazon](https://www.amazon.com/dp/B0GT4D1MCD)
+When AI Does the Work* — [Amazon](https://www.amazon.com/dp/B0H4CXR3HJ)
 
 Free kit also at [andrewtanci.gumroad.com/l/ci](https://andrewtanci.gumroad.com/l/ci)
 
