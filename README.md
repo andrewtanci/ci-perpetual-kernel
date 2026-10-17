@@ -1,60 +1,41 @@
-# Continuation Intelligence — Perpetual Kernel
+# CI Kernel component history
 
-**Your AI work compounds. It does not reset.**
+## Start with CI Boardroom
 
-A free, copy-paste kernel that preserves your working state across
-AI chats. Works on ChatGPT, Claude, Gemini, and any AI platform.
-No installation. No setup. Paste and use.
+**[Go directly to CI Boardroom](https://github.com/andrewtanci/ci-boardroom)**
 
-> "Capability must never become authority."
+CI Kernel is included in the combined CI Boardroom package. You do not need a separate Kernel installation or a sequence of book chapters before starting.
 
-## The problem
+**[Download Continuation Intelligence at SkillsNova](https://skillsnova.sg/)**
 
-AI chats reset. Context drifts. You hit the wall and lose
-everything — the decisions, the terms, the working state. The
-deeper issue isn't memory. It's control.
+SkillsNova is the main entry point for the combined download and setup guidance. Choose the portable-text or native-Skill route supported by your AI app, and follow the package's `START-HERE.txt`. The technical Skill name is `ci-boardroom`.
 
-## What this does
+## What Kernel contributes
 
-1. **Activates Continuation Intelligence** in any chat — fresh,
-   existing, or memory-aware. It reads the situation and responds.
-2. **Migrates your work** — type `MIGRATE` and it extracts a full
-   CI Continuation Block you paste into the next chat. Your work
-   continues from declared state, not loose reconstruction.
+Kernel provides instructions for keeping the objective, evidence, decisions, versions and approval boundaries explicit. It can help prepare a continuation block for you to review, save and carry into a later conversation.
 
-## The honest part
+This is a user-carried continuity method. It does not install automatic memory, background storage, monitoring or a scheduler. A summary can omit detail; keep the original sources and verify important fields. The model cannot guarantee complete recall or measure how full a conversation is.
 
-The AI cannot see how full a chat is. It cannot warn you before
-the wall. So the trigger is yours:
+The host app controls file loading, context capacity, tools and permissions. Check that it can read the complete instructions and test your own setup before relying on the results.
 
-- **Type MIGRATE at every milestone** — a decision made, a section
-  done. This is your insurance.
-- **Watch for signs** — slower replies, forgetting, repetition, the
-  platform's "long conversation" notice. Any of these → MIGRATE.
-- **Type CHECK anytime** — the AI honestly reports whether it can
-  still recall the start, and recommends MIGRATE if it's slipping.
+**Capability must never become authority.**
 
-No fake fuel gauge. Just honest tools that work.
+## Historical source files
 
-## Files
+This repository preserves earlier standalone Kernel source files and their history. They are component references, not the current customer installation route. Some describe earlier packaging and wording.
 
-- [`kernel/ci-perpetual-kernel.md`](kernel/ci-perpetual-kernel.md) — the main kernel
-- [`kernel/claude-rehydration-wrapper.md`](kernel/claude-rehydration-wrapper.md) — use this on Claude
-- [`kernel/continuation-block-template.md`](kernel/continuation-block-template.md) — the 18-field block
-- [`agent-control/ci-agent-control-kernel.md`](agent-control/ci-agent-control-kernel.md) — for agentic workflows (Codex, Claude Code)
+- [Earlier Perpetual Kernel](kernel/ci-perpetual-kernel.md)
+- [Earlier Claude rehydration wrapper](kernel/claude-rehydration-wrapper.md)
+- [Continuation-block template](kernel/continuation-block-template.md)
+- [Earlier agent-control Kernel](agent-control/ci-agent-control-kernel.md)
 
-## Note for Claude users
-
-Claude may fall back to its own memory instead of your pasted block.
-Use the Claude Rehydration Wrapper — it makes the pasted block the
-authoritative state. Without it, Claude can ignore your block.
+For the current combined package, return to [CI Boardroom](https://github.com/andrewtanci/ci-boardroom) and [SkillsNova](https://skillsnova.sg/).
 
 ## From the book
 
-Full method in *Continuation Intelligence: How to Stay in Control
-When AI Does the Work* — [Amazon](https://www.amazon.com/dp/B0H4CXR3HJ)
+The wider method appears in *Continuation Intelligence: How to Stay in Control When AI Does the Work* — [Amazon](https://www.amazon.com/dp/B0H4CXR3HJ).
 
-Free kit also at [andrewtanci.gumroad.com/l/ci](https://andrewtanci.gumroad.com/l/ci)
+You can start with CI Boardroom directly.
 
 By Andrew Tan 陈治力 · AIGP Certified · Founder, Continuation Intelligence
 
