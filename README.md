@@ -1,14 +1,14 @@
 # CI Kernel component history
 
-## Start with CI Boardroom
+## Start with Continuation Intelligence
 
-**[Go directly to CI Boardroom](https://github.com/andrewtanci/ci-boardroom)**
+**[Go directly to Continuation Intelligence](https://github.com/andrewtanci/ci-boardroom)**
 
-CI Kernel is included in the combined CI Boardroom package. You do not need a separate Kernel installation or a sequence of book chapters before starting.
+CI Kernel is included in the combined Continuation Intelligence package. You do not need a separate Kernel installation or a sequence of book chapters before starting.
 
 **[Download Continuation Intelligence at SkillsNova](https://skillsnova.sg/)**
 
-SkillsNova is the main entry point for the combined download and setup guidance. Choose the portable-text or native-Skill route supported by your AI app, and follow the package's `START-HERE.txt`. The technical Skill name is `ci-boardroom`.
+SkillsNova is the main entry point for the combined download and setup guidance. Choose **Copy and paste** or **Install as a Skill**, according to your AI app's support. The technical Skill name is `ci-boardroom`.
 
 ## What Kernel contributes
 
@@ -18,7 +18,7 @@ This is a user-carried continuity method. It does not install automatic memory, 
 
 The host app controls file loading, context capacity, tools and permissions. Check that it can read the complete instructions and test your own setup before relying on the results.
 
-**Capability must never become authority.**
+**Let AI do the work. You stay in control.**
 
 ## Historical source files
 
@@ -29,13 +29,13 @@ This repository preserves earlier standalone Kernel source files and their histo
 - [Continuation-block template](kernel/continuation-block-template.md)
 - [Earlier agent-control Kernel](agent-control/ci-agent-control-kernel.md)
 
-For the current combined package, return to [CI Boardroom](https://github.com/andrewtanci/ci-boardroom) and [SkillsNova](https://skillsnova.sg/).
+For the current combined package, return to [Continuation Intelligence](https://github.com/andrewtanci/ci-boardroom) and [SkillsNova](https://skillsnova.sg/).
 
 ## From the book
 
 The wider method appears in *Continuation Intelligence: How to Stay in Control When AI Does the Work* — [Amazon](https://www.amazon.com/dp/B0H4CXR3HJ).
 
-You can start with CI Boardroom directly.
+You can start with Continuation Intelligence directly.
 
 By Andrew Tan 陈治力 · AIGP Certified · Founder, Continuation Intelligence
 
