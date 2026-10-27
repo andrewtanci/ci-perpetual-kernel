@@ -4,6 +4,8 @@
 
 **[Go directly to Continuation Intelligence](https://github.com/andrewtanci/ci-boardroom)**
 
+**Current combined release: 1.2.0 (28 October 2026).** The published Kernel + Boardroom is available as [complete copy-and-paste text](https://raw.githubusercontent.com/andrewtanci/ci-boardroom/main/downloads/Continuation%20Intelligence%20-%20Copy%20and%20Paste.txt) or [Skill ZIP](https://raw.githubusercontent.com/andrewtanci/ci-boardroom/main/downloads/Continuation%20Intelligence%20-%20Download%20Skills.zip). The new Boardroom requires proportionate documented expert-method discovery and evidence challenge, while preserving human judgment and authority. A downloaded Skill still requires installation and verification in its host AI app.
+
 CI Kernel is included in the combined Continuation Intelligence package. You do not need a separate Kernel installation or a sequence of book chapters before starting.
 
 **[Download Continuation Intelligence at SkillsNova](https://skillsnova.sg/)**
