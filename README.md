@@ -8,9 +8,13 @@
 
 CI Kernel is included in the combined Continuation Intelligence package. You do not need a separate Kernel installation or a sequence of book chapters before starting.
 
-**[Download Continuation Intelligence at SkillsNova](https://skillsnova.sg/)**
+**[Download, try and support the combined CI product at CI Boardroom](https://github.com/andrewtanci/ci-boardroom)**
 
-SkillsNova is the main entry point for the combined download and setup guidance. Choose **Copy and paste** or **Install as a Skill**, according to your AI app's support. The technical Skill name is `ci-boardroom`.
+CI Boardroom is the main GitHub home for combined downloads, demos, releases and stars. [SkillsNova](https://skillsnova.sg/#bonus) provides the public download form and setup context. Choose **Copy and paste** or **Install as a Skill**, according to your AI app's support. The technical Skill name is `ci-boardroom`.
+
+The next **Continuity & Recovery** package is being prepared as a release candidate in the main repository. Until reviewed and approved, the current stable package above remains 1.2.0. For setup, examples and future updates, start at CI Boardroom.
+
+If CI helps you, consider starring [the main CI Boardroom repository](https://github.com/andrewtanci/ci-boardroom). This repository stays available as the historical Kernel record.
 
 ## What Kernel contributes
 
@@ -31,7 +35,7 @@ This repository preserves earlier standalone Kernel source files and their histo
 - [Continuation-block template](kernel/continuation-block-template.md)
 - [Earlier agent-control Kernel](agent-control/ci-agent-control-kernel.md)
 
-For the current combined package, return to [Continuation Intelligence](https://github.com/andrewtanci/ci-boardroom) and [SkillsNova](https://skillsnova.sg/).
+For the current combined package, return to [Continuation Intelligence](https://github.com/andrewtanci/ci-boardroom) and [SkillsNova](https://skillsnova.sg/#bonus).
 
 ## From the book
 
